@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/tolqinov-o/github-stats-transparent/output/generated/overview.svg" alt="T.Oqilbek" align="right" />
+<a href="#macropower-title" >
+  <img src="./img/giphy.gif" width="150" height="150" alt="T.Oqilbek" align="right" />
 </a>
 
 - :office: &nbsp;I am currently learning fullstack
@@ -31,43 +31,43 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/html-1.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/css-3.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="SCSS" />
+        <img src="./img/node-sass.svg" width="48" height="48" alt="SCSS" />
       </a>
       <br>SCSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="React" />
+        <img src="./img/react-1.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="C" />
+        <img src="./img/c-1.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
