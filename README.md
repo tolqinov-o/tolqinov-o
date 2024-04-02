@@ -1,61 +1,111 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=tolqinov-o&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-  
-  - 🔭 I graduated from Astrum IT Academy
-  - 🌱 I am currently learning Fullstack
-  - 💬 My first [github](https://github.com/Oqilbek2121) profile.
-  - 😄 Pronouns: He / Him
-  - ⚡ I was created on Monday, March 25, 2024.
-  
-  #### 📫 How to reach me:
-   [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]((https://www.instagram.com/alone_martyn))  &nbsp; <a href="mailto:tolqinovoqilbek90@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm T.Oqilbek</h1>
+<h3 align="left">I'm Frontend Developer</h3>
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1474.00  ┤
- 1463.94  ┤                                                                                         ╭╮╭╮╭╮╭──╮
- 1453.88  ┤                                                                       ╭╮               ╭╯╰╯╰╯╰╯  ╰
- 1443.81  ┤                                                               ╭╮╭╮   ╭╯╰─╮╭─╮     ╭╮  ╭╯
- 1433.75  ┤                                                              ╭╯╰╯╰─╮╭╯   ╰╯ ╰───╮╭╯╰╮╭╯
- 1423.69  ┤                                        ╭╮                   ╭╯     ╰╯           ╰╯  ╰╯
- 1413.62  ┤                                    ╭╮╭─╯╰─╮╭╮             ╭─╯
- 1403.56  ┤                                   ╭╯╰╯    ╰╯╰╮           ╭╯
- 1393.50  ┤                        ╭╮╭╮    ╭╮╭╯          ╰───╮   ╭╮╭─╯
- 1383.44  ┤                       ╭╯╰╯╰╮  ╭╯╰╯               ╰╮ ╭╯╰╯
- 1373.38  ┤                      ╭╯    ╰──╯                   ╰─╯
- 1363.31  ┤                    ╭─╯
- 1353.25  ┤                   ╭╯
- 1343.19  ┤  ╭╮            ╭╮╭╯
- 1333.12  ┼╮╭╯╰╮ ╭─╮╭╮  ╭╮╭╯╰╯
- 1323.06  ┤╰╯  ╰─╯ ╰╯╰╮╭╯╰╯
- 1313.00  ┤           ╰╯
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=tolqinov-o" alt="page views" />
+  </a>
+  <a href="https://my-dropbox-tapp.netlify.app">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+  <a href="https://github.com/tolqinov-o?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tolqinov-o?style=flat&logo=github">
+  </a>
+</p>
 
-Chart last updated - Sun Mar 31 12:03:37 EDT 2024  
-  ```
-  
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/tolqinov-o/github-stats-transparent/output/generated/overview.svg" alt="T.Oqilbek" align="right" />
+</a>
+
+- :office: &nbsp;I am currently learning fullstack
+- :seedling: &nbsp;I’m currently learning frontend
+- :computer: &nbsp;Connect with me on <a href="https://www.instagram.com/alone_martyn" target="_blank">Instagram</a>
+
+<br>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="SCSS" />
+      </a>
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  1993.5 hr  ┤                                                                                         ╭───────── 
+  1992.9 hr  ┤                                                                                ╭────────╯          
+  1992.3 hr  ┤                                                                                │                   
+  1991.6 hr  ┤                                                                           ╭────╯                   
+  1991.0 hr  ┤                                                                          ╭╯                        
+  1990.4 hr  ┤                                                                  ╭───────╯                         
+  1989.7 hr  ┤                                                                 ╭╯                                 
+  1989.1 hr  ┤                                                                 │                                  
+  1988.5 hr  ┤                                                               ╭─╯                                  
+  1987.8 hr  ┤                                                              ╭╯                                    
+  1987.2 hr  ┤                                                             ╭╯                                     
+  1986.6 hr  ┤                                                             │                                      
+  1985.9 hr  ┼─────────────────────────────────────────────────────────────╯                                      
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
