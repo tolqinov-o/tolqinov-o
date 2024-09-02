@@ -2,20 +2,14 @@
 <h3 align="left">I'm Frontend Developer</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=tolqinov-o" alt="page views" />
-  </a>
-  <a href="https://my-dropbox-tapp.netlify.app">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
+  [![](https://visitcount.itsvg.in/api?id=tolqinov-o&icon=2&color=3)](https://visitcount.itsvg.in)
   <a href="https://github.com/tolqinov-o?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/tolqinov-o?style=flat&logo=github">
   </a>
 </p>
 
-<a href="#tolqinov-o" >
-  <img src="./img/giphy.gif" width="150" height="150" alt="T.Oqilbek" align="right" />
-</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 - :office: &nbsp;I am currently learning fullstack
 - :seedling: &nbsp;I’m currently learning frontend
