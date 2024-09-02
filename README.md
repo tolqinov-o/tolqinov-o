@@ -23,81 +23,27 @@
 
 <br>
 
-<h2 align="left" id="tolqinov-o">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7r2PjZJQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alone_martyn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oqilbek-to-lqinov-51891226b/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/tolqinov-o) 
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tolqinov-o">
-        <img src="./img/html-1.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#tolqinov-o">
-        <img src="./img/css-3.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#tolqinov-o">
-        <img src="./img/node-sass.svg" width="48" height="48" alt="SCSS" />
-      </a>
-      <br>SCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#tolqinov-o">
-        <img src="./img/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#tolqinov-o" >
-        <img src="./img/react-1.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96"> 
-      <a href="#tolqinov-o" >
-        <img src="./img/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
-      <a href="#tolqinov-o">
-        <img src="./img/c-1.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tolqinov-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tolqinov-o&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tolqinov-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Coding Activity</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tolqinov-o&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-> Total logged open-source coding time since 2024-03-25. Updated every 1 hour.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tolqinov-o&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-```
-  1993.5 hr  ┤                                                                                         ╭───────── 
-  1992.9 hr  ┤                                                                                ╭────────╯          
-  1992.3 hr  ┤                                                                                │                   
-  1991.6 hr  ┤                                                                           ╭────╯                   
-  1991.0 hr  ┤                                                                          ╭╯                        
-  1990.4 hr  ┤                                                                  ╭───────╯                         
-  1989.7 hr  ┤                                                                 ╭╯                                 
-  1989.1 hr  ┤                                                                 │                                  
-  1988.5 hr  ┤                                                               ╭─╯                                  
-  1987.8 hr  ┤                                                              ╭╯                                    
-  1987.2 hr  ┤                                                             ╭╯                                     
-  1986.6 hr  ┤                                                             │                                      
-  1985.9 hr  ┼─────────────────────────────────────────────────────────────╯                                      
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+---
+[![](https://visitcount.itsvg.in/api?id=tolqinov-o&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
