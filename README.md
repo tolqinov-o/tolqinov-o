@@ -1,22 +1,14 @@
 <h1 align="left" id="tolqinov-o">:wave: Hello there! I'm T.Oqilbek</h1>
 <h3 align="left">I'm Frontend Developer</h3>
 
-<p align="left">
-  [![](https://visitcount.itsvg.in/api?id=tolqinov-o&icon=2&color=3)](https://visitcount.itsvg.in)
-  <a href="https://github.com/tolqinov-o?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tolqinov-o?style=flat&logo=github">
-  </a>
-</p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 - :office: &nbsp;I am currently learning fullstack
 - :seedling: &nbsp;I’m currently learning frontend
 - :computer: &nbsp;Connect with me on <a href="https://www.instagram.com/alone_martyn" target="_blank">Instagram</a>
 
 <br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=tolqinov-o&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7r2PjZJQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alone_martyn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oqilbek-to-lqinov-51891226b/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/tolqinov-o) 
@@ -37,7 +29,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tolqinov-o&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=tolqinov-o&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
