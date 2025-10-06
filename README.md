@@ -1,9 +1,9 @@
 <h1 align="left" id="tolqinov-o">:wave: Hello there! I'm T.Oqilbek</h1>
-<h3 align="left">I'm Frontend Developer</h3>
+<!-- <h3 align="left">I'm Frontend Developer</h3>
 
 - :office: &nbsp;I am currently learning fullstack
 - :seedling: &nbsp;I’m currently learning frontend
-- :computer: &nbsp;Connect with me on <a href="https://www.instagram.com/alone_martyn" target="_blank">Instagram</a>
+- :computer: &nbsp;Connect with me on <a href="https://www.instagram.com/alone_martyn" target="_blank">Instagram</a> -->
 
 <br>
 
